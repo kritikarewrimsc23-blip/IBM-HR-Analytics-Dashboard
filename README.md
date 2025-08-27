@@ -32,6 +32,3 @@ An interactive HR Analytics Dashboard built in **Microsoft Excel** using the IBM
 3. Use slicers to explore data.  
 
 ---
-
-## 👤 Contact  
-**Kritika** | [kritika.rewri.msc23@nsut.ac.in]
